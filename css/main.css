@@ -486,6 +486,9 @@ img::-moz-selection {
     display: block; 
     width: 100%;
 }
+.post .touxiang {
+width: 150px;
+}
   .post pre {
     width: 95%;
     overflow: auto; }
